@@ -1,0 +1,1 @@
+export OPENAI_KEY="$(< etc/chatgpt_key.txt)"
